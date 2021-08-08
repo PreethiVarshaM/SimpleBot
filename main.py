@@ -1,7 +1,7 @@
 import discord
 import os
 import requests 
-import turtle
+import time
 #used to request urls from the API
 import json 
 import random
