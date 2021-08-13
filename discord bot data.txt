@@ -1,0 +1,3 @@
+ODQyMjQ2MjU5OTU0OTQxOTgy.YJyg9A.b4kgyf-x4vAXJeAHlUax3R02jsg     - token of the bot
+
+https://discord.com/api/oauth2/authorize?client_id=842246259954941982&permissions=3321359430&scope=bot   -bot scopes url
