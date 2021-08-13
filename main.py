@@ -5,7 +5,7 @@ import time
 #used to request urls from the API
 import json 
 import random
-from replit import db
+from  import db
 my_secret=os.environ['password']
 #my_secret is a variable containing the token of the discord bot
 client=discord.Client()
